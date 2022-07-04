@@ -7,7 +7,7 @@
 
 
 
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" style="width:100%">
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" style="width:50%"> <img src="https://raw.githubusercontent.com/yoavain/create-windowless-app/main/resources/docs/logo.gif" style="width:50%">
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=RPEKCETIN&hide_border=true)
 
