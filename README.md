@@ -6,7 +6,8 @@
 ## My Stats:
 
 
-<img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" style="width:100%">
+
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" style="width:100%">
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=RPEKCETIN&hide_border=true)
 
