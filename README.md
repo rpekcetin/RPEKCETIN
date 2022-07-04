@@ -1,7 +1,6 @@
-### Greetings, I'm Baran Can Atbaş 👋
-- I have been dealing with software since 2018.
-- I have worked on php and vuejs before.
-- I’m currently working on Go and nodejs
+### Greetings, I'm Recep Muhammet Pekçetin 👋
+- I have been dealing with software since 2019.
+- I’m currently working on reactjs and nodejs
 
 
 ## My Stats:
