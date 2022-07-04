@@ -1,7 +1,7 @@
 ### Greetings, I'm Recep Muhammet Pekçetin 👋
 - I have been dealing with software since 2019.
-- I’m currently working on reactjs and nodejs
-- Next learn mission nestjs and react native
+- I’m currently working on react js and node js
+- Next learn mission nest js and react native
 
 ## My Stats:
 
