@@ -7,9 +7,9 @@
 
 <img src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif" style="width:100%">
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=barancanatbas&hide_border=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=RPEKCETIN&hide_border=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barancanatbas&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPEKCETIN&count_private=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
