@@ -5,6 +5,9 @@
 
 ## My Stats:
 
+
+<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" style="width:100%">
+
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=RPEKCETIN&hide_border=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPEKCETIN&count_private=true)
