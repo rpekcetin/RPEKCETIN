@@ -13,10 +13,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPEKCETIN&count_private=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/barancanatbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="barancanatbas" height="30" width="40" /> &nbsp; &nbsp;</a>
-<a href="https://www.linkedin.com/in/recep-muhammet-pek%C3%A7etin-433a69179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baran can atbaş" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/ThreeAngelsNft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="receppek" height="30" width="40" /> &nbsp; &nbsp;</a>
+<a href="https://www.linkedin.com/in/recep-muhammet-pek%C3%A7etin-433a69179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="recep pekçetin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
