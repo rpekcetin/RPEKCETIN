@@ -7,8 +7,10 @@
 
 
 
-<img src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif" style="width:100%">
+
 <div align="center">
+<img src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif" style="width:100%">
+  
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=RPEKCETIN&hide_border=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPEKCETIN&count_private=true)
