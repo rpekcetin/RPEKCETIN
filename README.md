@@ -9,7 +9,7 @@
 
 
 <div align="center">
-<img src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif" style="width:30%">
+<img src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif" style="width:10%">
   
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=RPEKCETIN&hide_border=true)
 
