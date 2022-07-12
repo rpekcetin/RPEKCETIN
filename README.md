@@ -18,7 +18,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/ThreeAngelsNft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme generator/master/src/images/icons/Social/twitter.svg" alt="receppek" height="30" width="40" /> &nbsp; &nbsp;</a><a href="https://www.linkedin.com/in/recep-muhammet-pek%C3%A7etin-433a69179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="recep pekçetin" height="30" width="40" /></a><a href="https://stackoverflow.com/users/16107808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16107808" height="30" width="40" /></a><a href="https://instagram.com/nft.threeanglesnft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nft.threeanglesnft" height="30" width="40" /></a>
+<a href="https://twitter.com/threeangelsnft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="threeangelsnft" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/recep-muhammet-pekçetin-433a69179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="recep-muhammet-pekçetin-433a69179" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16107808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16107808" height="30" width="40" /></a>
+<a href="https://instagram.com/nft.threeanglesnft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nft.threeanglesnft" height="30" width="40" /></a>
 </p>
 
 <div align="center">
