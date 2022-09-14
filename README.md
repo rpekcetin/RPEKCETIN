@@ -2,7 +2,6 @@
 - I have been dealing with software since 2019.
 - I’m currently working on react js and node js
 - My future learning goals are nest js and react native
-- Also you can checkout my cupcake collection on OpenSea https://opensea.io/collection/threecupcakes
 ## My Stats:
 
 
