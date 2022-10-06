@@ -6,7 +6,7 @@
 
 
 
- <img src="./image.png" style="width:200px">
+ <img src="./image.png" style="width:350px,height:350px">
 <div align="center">
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=RPEKCETIN&hide_border=true)
