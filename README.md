@@ -6,7 +6,7 @@
 
 
 
- <img src="./image.png" style="width:350px,height:350px">
+ <div style="width:100%;height:0;padding-bottom:59%;position:relative;"><iframe src="https://giphy.com/embed/2IKCcxHhdOnSM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/super-nintendo-art-cute-2IKCcxHhdOnSM">via GIPHY</a></p>
 <div align="center">
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=RPEKCETIN&hide_border=true)
