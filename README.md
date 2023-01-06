@@ -11,7 +11,7 @@
 </div>
 <div align="center">
 
-<!--![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=RPEKCETIN&hide_border=true)-->
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=RPEKCETIN&hide_border=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPEKCETIN&count_private=true)
 </div>
