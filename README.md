@@ -1,7 +1,7 @@
 ### Greetings, I'm Recep Muhammet Pekçetin 👋
 - I have been dealing with software since 2019.
-- I’m currently working on react js and node js
-- My future learning goals are nest js and react native
+- I’m currently working on react js and Node js
+- My future learning goal is image processing in Python
 ## My Stats:
 
 
