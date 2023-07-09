@@ -4,7 +4,11 @@
 - My future learning goal is image processing in Python
 ## My Stats:
 
-
+| Column 1     | Column 2     |
+|--------------|--------------|
+| Row 1, Cell 1 | Row 1, Cell 2 |
+| Row 2, Cell 1 | Row 2, Cell 2 |
+| Row 3, Cell 1 | Row 3, Cell 2 |
 
 <div align="center">
  <img src="https://media2.giphy.com/media/2IKCcxHhdOnSM/giphy.gif?cid=ecf05e47qiqpxy6bhah1tec0r3l5xtnf5cv41giw3xg6ss5e&rid=giphy.gif&ct=g" style="width:200px" />
